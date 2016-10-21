@@ -1,7 +1,4 @@
 Name: Aahan Sawhney
-Net ID: axs149430
-CS 4348.501
-Date: Oct 1, 2016
 
 Files:
         1) main.cpp     Contains the main program
@@ -11,7 +8,7 @@ Files:
         5) CPU.h        Contains declaration of CPU class
         6) sample5.txt  Contains my sample program
 
-These instructions have been written using the experience from running the project on UTD linux machines
+These instructions have been written using the experience from running the project on linux machines
 Instruction to compile and run project:
 
 1) Make sure all the files are in the same folder
